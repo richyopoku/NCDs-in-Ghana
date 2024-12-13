@@ -1,1 +1,1 @@
-# Non Communicable Diseases in Ghana
+### Non Communicable Diseases in Ghana
