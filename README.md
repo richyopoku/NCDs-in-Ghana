@@ -5,7 +5,7 @@
 This project will highlight the prevalence of NCDs in Ghana
 **Scope**
 The analysis covers
-+Gender
-+Age
-+Occupation
++ Gender
++ Age
++ Occupation
 **Methodology**
